@@ -1,0 +1,1 @@
+Kod strony Elżbietka Simulator
