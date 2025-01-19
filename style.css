@@ -129,7 +129,7 @@ button:hover {
 .upperf {
   background-color: #897DFF;
   width: 100%;
-  padding: 2%;
+  padding: 1%;
 }
 
 .upperf img {
@@ -139,8 +139,9 @@ button:hover {
 
 .downf {
   background-color: #292929;
+  color: white;
   width: 100%;
-  padding: 3%;
+  padding: 2%;
 }
 
 .downf p {
