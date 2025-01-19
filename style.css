@@ -116,7 +116,7 @@ button {
   transition: all .4;
 }
 
-button a {
+a {
   color: white;
 }
 
@@ -139,7 +139,6 @@ button:hover {
 
 .downf {
   background-color: #292929;
-  color: white;
   width: 100%;
   padding: 2%;
 }
